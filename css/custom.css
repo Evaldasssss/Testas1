@@ -1,0 +1,32 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 100%;
+    margin: 50px;
+}
+
+.main-headings {
+    text-transform: uppercase;
+    color: #E46E5F;
+    text-align: center;
+    margin: 38px;
+}
+
+.column {
+    float: left;
+    width: 350px;
+    align-items: flex-start;
+}
+
+p {
+    text-align: center;
+    display: block;
+    margin-bottom: 20px;
+}
+
+footer {
+    display: inline-block;
+}
+
+.svg {
+    width: 20px;
+}
