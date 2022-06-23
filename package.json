@@ -1,0 +1,16 @@
+{
+  "name": "testas1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --port=3905 --host=localhost",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Evaldas",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "dead-server": "^1.0.6"
+  }
+}
